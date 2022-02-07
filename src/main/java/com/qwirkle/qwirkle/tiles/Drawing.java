@@ -5,7 +5,7 @@ import javafx.scene.shape.*;
 /**
  * Define o formato do desenho presente nos ladrilhos do jogo.
  */
-public enum Shape {
+public enum Drawing {
 
     SQUARE {
         @Override

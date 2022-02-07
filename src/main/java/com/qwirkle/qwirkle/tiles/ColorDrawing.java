@@ -2,7 +2,7 @@ package com.qwirkle.qwirkle.tiles;
 
 import javafx.scene.paint.Color;
 
-public enum ColorShape {
+public enum ColorDrawing {
 
     RED {
         @Override
